@@ -1,0 +1,3 @@
+﻿  questão-02.cpp
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp__UFERSA\Laboratório\Lab-04\Revisão-02\questão-02.cpp(17,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Revisão-02.vcxproj -> C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp__UFERSA\Laboratório\Lab-04\Revisão-02\x64\Debug\Revisão-02.exe
