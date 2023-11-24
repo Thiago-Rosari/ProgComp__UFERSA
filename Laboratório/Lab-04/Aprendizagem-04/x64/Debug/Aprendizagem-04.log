@@ -1,0 +1,3 @@
+﻿  Questão-4.cpp
+C:\Users\th_ma\OneDrive\Documentos\estudos\ProgComp\Laboratórios\Lab-04\Aprendizagem-04\Questão-4.cpp(32,15): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  Aprendizagem-04.vcxproj -> C:\Users\th_ma\OneDrive\Documentos\estudos\ProgComp\Laboratórios\Lab-04\Aprendizagem-04\x64\Debug\Aprendizagem-04.exe
