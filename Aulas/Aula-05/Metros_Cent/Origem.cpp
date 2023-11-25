@@ -12,7 +12,7 @@ int main()
 	float num;
 	cin >> num;
 
-	float cent = converte(num);  // inicializando co uma função
+	float cent = converte(num);  // inicializando com uma função
 
 	cout << num << " metros = " << cent << " centímetros." << endl;
 
