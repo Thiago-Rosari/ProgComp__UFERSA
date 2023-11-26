@@ -1,0 +1,7 @@
+﻿  cubo.cpp
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp__UFERSA\Laboratório\Lab-05\Aprendizagem-7\cubo.cpp(4,12): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  quadrado.cpp
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp__UFERSA\Laboratório\Lab-05\Aprendizagem-7\quadrado.cpp(4,12): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  Questão-7.cpp
+  Gerando Código...
+  Aprendizagem-7.vcxproj -> C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp__UFERSA\Laboratório\Lab-05\Aprendizagem-7\x64\Debug\Aprendizagem-7.exe

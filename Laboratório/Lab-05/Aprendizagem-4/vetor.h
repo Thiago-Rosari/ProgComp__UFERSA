@@ -1,0 +1,1 @@
+double vetor(double, double);

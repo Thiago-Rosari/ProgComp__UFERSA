@@ -1,0 +1,1 @@
+float quadrado(float);
