@@ -1,0 +1,1 @@
+void isInt(long long);

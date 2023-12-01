@@ -1,0 +1,4 @@
+﻿  Padaria.cpp
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp__UFERSA\Laboratório\Lab-06\Aprendizagem-2\Padaria.cpp(26,15): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp__UFERSA\Laboratório\Lab-06\Aprendizagem-2\Padaria.cpp(27,18): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Aprendizagem-2.vcxproj -> C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp__UFERSA\Laboratório\Lab-06\Aprendizagem-2\x64\Debug\Aprendizagem-2.exe

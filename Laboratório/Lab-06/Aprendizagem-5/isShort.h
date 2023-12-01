@@ -1,0 +1,1 @@
+void isShort(long long);
