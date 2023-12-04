@@ -1,0 +1,6 @@
+﻿  codificar.cpp
+  decodificar.cpp
+  Origem.cpp
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Laboratório\Lab-07\Aprendizagem-2\Aprendizagem-2\Origem.cpp(21,18): warning C4805: '==': mistura não segura de tipo 'int' e tipo 'bool' em operação
+  Gerando Código...
+  Aprendizagem-2.vcxproj -> C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Laboratório\Lab-07\Aprendizagem-2\x64\Debug\Aprendizagem-2.exe
