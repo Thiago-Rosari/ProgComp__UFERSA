@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Aulas\Aula-08\Precisão_P_F\Origem.cpp(13,15): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  Precisão_P_F.vcxproj -> C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Aulas\Aula-08\Precisão_P_F\x64\Debug\Precisão_P_F.exe
