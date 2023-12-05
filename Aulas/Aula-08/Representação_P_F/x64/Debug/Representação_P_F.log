@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Aulas\Aula-08\Representação_P_F\Origem.cpp(6,10): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  Representação_P_F.vcxproj -> C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Aulas\Aula-08\Representação_P_F\x64\Debug\Representação_P_F.exe
