@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Laboratório\Lab-08\Fixação-3\Fixação-3\Origem.cpp(31,15): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  Fixação-3.vcxproj -> C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Laboratório\Lab-08\Fixação-3\x64\Debug\Fixação-3.exe
