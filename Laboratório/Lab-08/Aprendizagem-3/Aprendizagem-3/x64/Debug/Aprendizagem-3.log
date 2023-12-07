@@ -1,0 +1,7 @@
+﻿  Questão3-Lab08.cpp
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Laboratório\Lab-08\Aprendizagem-3\Aprendizagem-3\Questão3-Lab08.cpp(11,10): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Laboratório\Lab-08\Aprendizagem-3\Aprendizagem-3\Questão3-Lab08.cpp(13,10): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Laboratório\Lab-08\Aprendizagem-3\Aprendizagem-3\Questão3-Lab08.cpp(15,10): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Laboratório\Lab-08\Aprendizagem-3\Aprendizagem-3\Questão3-Lab08.cpp(17,10): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Laboratório\Lab-08\Aprendizagem-3\Aprendizagem-3\Questão3-Lab08.cpp(19,10): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  Aprendizagem-3.vcxproj -> C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Laboratório\Lab-08\Aprendizagem-3\x64\Debug\Aprendizagem-3.exe

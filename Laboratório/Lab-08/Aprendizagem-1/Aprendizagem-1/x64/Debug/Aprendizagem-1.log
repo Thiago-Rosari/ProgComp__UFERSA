@@ -1,0 +1,6 @@
+﻿  Origem.cpp
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Laboratório\Lab-08\Aprendizagem-1\Aprendizagem-1\Origem.cpp(20,14): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Laboratório\Lab-08\Aprendizagem-1\Aprendizagem-1\Origem.cpp(20,11): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Laboratório\Lab-08\Aprendizagem-1\Aprendizagem-1\Origem.cpp(20,8): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Laboratório\Lab-08\Aprendizagem-1\Aprendizagem-1\Origem.cpp(27,14): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  Aprendizagem-1.vcxproj -> C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Laboratório\Lab-08\Aprendizagem-1\x64\Debug\Aprendizagem-1.exe
