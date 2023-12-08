@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Aulas\Aula-09\Conversões\Conversões\Origem.cpp(15,13): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Aulas\Aula-09\Conversões\Conversões\Origem.cpp(16,13): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+  Conversões.vcxproj -> C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Aulas\Aula-09\Conversões\x64\Debug\Conversões.exe
