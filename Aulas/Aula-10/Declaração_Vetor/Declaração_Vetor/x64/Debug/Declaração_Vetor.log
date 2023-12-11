@@ -1,0 +1,7 @@
+﻿  Origem.cpp
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Aulas\Aula-10\Declaração_Vetor\Declaração_Vetor\Origem.cpp(13,10): error C2131: a expressão não foi avaliada como uma constante
+  C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Aulas\Aula-10\Declaração_Vetor\Declaração_Vetor\Origem.cpp(7,22):
+  a falha foi causada pela chamada de uma função indefinida ou não declarada 'constexpr'
+  C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Aulas\Aula-10\Declaração_Vetor\Declaração_Vetor\Origem.cpp(7,22):
+  consulte uso de 'rand'
+  
