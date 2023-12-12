@@ -1,0 +1,3 @@
+﻿  MediaNotas.cpp
+C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Laboratório\Lab-10\Aprendizagem-2\Aprendizagem-2\MediaNotas.cpp(42,83): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Aprendizagem-2.vcxproj -> C:\Users\th_ma\Documentos\ESTUDOS\UFERSA\ProgComp\Laboratório\Lab-10\Aprendizagem-2\x64\Debug\Aprendizagem-2.exe
