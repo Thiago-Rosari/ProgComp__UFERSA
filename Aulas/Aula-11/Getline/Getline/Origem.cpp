@@ -23,3 +23,13 @@ int main()
 
 	return 0;
 }
+
+
+/**************************************************************************************
+// A função 'cin.get()' também pode receber uma variável do tipo 'char' como argumento
+//
+//	char ch;
+//	cin.get(ch);   => guarda caractere lido em char
+//
+//
+**************************************************************************************/
